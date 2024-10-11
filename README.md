@@ -13,5 +13,11 @@ Este é um projeto simples de uma landing page do Starbucks, desenvolvido utiliz
 ## 🎯 Objetivo do Projeto
 O objetivo deste projeto foi praticar a criação de uma landing page simples, explorando boas práticas de HTML e CSS, além de técnicas de design responsivo.
 
+## 📬 Contatos
+Gostou do projeto? Gostaria de saber mais sobre mim? Entre em contato!
+
+- 📧 Email: [gabrieljescudine.05@gmail.com](mailto:gabrieljescudine.05@gmail.com)
+- 💼 LinkedIn: [Gabriel Joffily Escudine](https://www.linkedin.com/in/gabrieljoffilyescudine/)
+
 ## 📝 Licença
 Este projeto foi criado apenas para fins educacionais e não possui afiliação oficial com o Starbucks.
