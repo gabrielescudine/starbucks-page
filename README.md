@@ -3,6 +3,9 @@
 
 ## 📝 Descrição
 Este é um projeto simples de uma landing page do Starbucks, desenvolvido utilizando apenas HTML e CSS. O objetivo deste projeto foi recriar uma página de apresentação com um design limpo e moderno, destacando produtos e promoções da marca.
+<br>
+<br>
+Você pode acessar o projeto através deste link: [Starbucks Page - Site](https://starbucks-page-sigma.vercel.app).
 
 ## 🛠️ Tecnologias Utilizadas
 <ul>
